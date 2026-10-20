@@ -36,13 +36,13 @@ The solution will retain a human-in-the-loop model. The AI component may collect
 
 \## Tech Stack
 
-\- Frontend: React
+\- Frontend: PowerApps
 
 \- Backend: Node.js / Express
 
-\- Database: PostgreSQL
+\- Database: Sharepoint
 
-\- AI/Communications: Twilio, OpenAI API, SendGrid
+\- AI/Communications: Twilio, OpenAI API, Azure App Serivce
 
 
 
